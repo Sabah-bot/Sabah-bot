@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-I'm Sabah 🧑‍💻.
-
-🌱 **What I'm learning:**
-- Full-stack development 🖥️
-- JavaScript, Java, and more! 💻
+I'm Sabah 🧑‍💻
 
 💡 **What I'm working on:**
 - Personal projects 🎨
