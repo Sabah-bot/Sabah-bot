@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Sabah - a budding software engineer 🚀, currently learning the ropes at the Bright Network Software Engineering Bootcamp 🧑‍💻.
+I'm Sabah 🧑‍💻.
 
 🌱 **What I'm learning:**
 - Full-stack development 🖥️
@@ -8,7 +8,6 @@ I'm Sabah - a budding software engineer 🚀, currently learning the ropes at th
 
 💡 **What I'm working on:**
 - Personal projects 🎨
-- Bootcamp Labs 📚
 
 🔧 **Tools & Technologies:**
 - Languages: JavaScript, Java, HTML, CSS
