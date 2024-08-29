@@ -4,9 +4,10 @@ I'm Sabah 🧑‍💻
 
 💡 **What I'm working on:**
 - Personal projects 🎨
+- Data science CFG Degree 🧑‍💻
 
 🔧 **Tools & Technologies:**
-- Languages: JavaScript, Java, HTML, CSS
+- Languages: JavaScript, Java, HTML, CSS, Python, 
 - Frameworks: React, Spring
 - Tools: Git, GitHub, VS Code
 
