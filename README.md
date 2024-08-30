@@ -7,7 +7,7 @@ I'm Sabah 🧑‍💻
 - Data science CFG Degree 🧑‍💻
 
 🔧 **Tools & Technologies:**
-- Languages: JavaScript, Java, HTML, CSS, Python, 
+- Languages: JavaScript, Java, HTML, CSS, Python, SQL
 - Frameworks: React, Spring
 - Tools: Git, GitHub, VS Code
 
